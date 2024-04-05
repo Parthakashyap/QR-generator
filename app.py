@@ -19,3 +19,5 @@ def generate():
             return qr_as_base64
     return ''
 
+if __name__ == '__main__':
+    app.run(debug=True)
