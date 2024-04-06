@@ -22,18 +22,18 @@ To run this project locally, follow these steps:
 - Python (3.6 or higher)
 - Flask
 
-## Set Up the Virtual Environment
-
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On Windows, use venv\Scripts\activate
-```
-
 ## Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/qr-code-generator.git
 cd qr-code-generator
+```
+
+## Set Up the Virtual Environment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
 ```
 
 ## Install Dependencies
